@@ -164,6 +164,11 @@ p {
 }
 
 
+input[type="submit"] {
+  border: none;
+  outline: none;
+}
+
 
 
 article > img {
